@@ -58,4 +58,4 @@ def transfer_data_to_db(list, hostname, dbname, _port, _user, _password):
 
 
 # executar funcao
-transfer_data_to_db(data_list, "localhost", "Prototipo Cork V01", "5432", "postgres", "Joanabonita7@")
+transfer_data_to_db(data_list, "localhost", "Prototipo Cork V01", "5432", "postgres", "password")

@@ -1,4 +1,9 @@
 # Github-CSP
-
-está aí o ficheiro para conversao de ficheiro lpv.txt para a base de dados,
-para estabelecer uma connexao a uma base de dados local
+main.py 
+ficheiro para a injeção dos ficheiros lpv para a base de dados
+visualizer.py
+ ficheiro para ir buscar os lpv's de uma determinada maquina e canal numa data estipulada e criação de gráfico com os valores
+ futuras tarefas:
+   interface gráfica 
+   threshold de canal 
+   interaçao com os dados
